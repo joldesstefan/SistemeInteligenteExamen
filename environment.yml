@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.6.5
   - numpy
+  - Pillow
   - matplotlib
   - tensorflow==1.14
   - pip
