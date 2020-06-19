@@ -5,9 +5,10 @@ dependencies:
   - python=3.6.5
   - numpy
   - Pillow
-  - opencv-python
   - matplotlib
   - tensorflow==1.14
   - pip
   - pip:
     - matplotlib
+    - opencv-python
+
